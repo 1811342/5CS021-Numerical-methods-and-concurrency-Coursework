@@ -1,0 +1,7 @@
+There are 6 Prime numbers
+2
+3
+5
+7
+11
+13
